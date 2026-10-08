@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.streamlit/secrets.toml
+inputs/media/*
+!inputs/media/.gitkeep
+inputs/scripts/*
+!inputs/scripts/.gitkeep
+outputs/*
+!outputs/.gitkeep
+projects/*
+!projects/.gitkeep
+*.log

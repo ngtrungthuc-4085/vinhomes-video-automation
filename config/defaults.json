@@ -1,0 +1,13 @@
+{
+  "brand": "Vinhomes AI Video Studio",
+  "language": "vi",
+  "cta": "Theo dõi hành trình khám phá Vinhomes Hải Vân Bay Đà Nẵng",
+  "content_priority": ["Đảo Ngọc", "Vịnh Mây", "Bạch Vân"],
+  "aspect": "9:16",
+  "target_duration": 60,
+  "scene_duration": 6,
+  "keep_original_audio": true,
+  "music_volume": 0.15,
+  "fade": true,
+  "script_captions": false
+}
